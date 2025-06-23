@@ -37,38 +37,11 @@ application_deadline	Application deadline	Date
 job_description_length	Character count of job description	Integer
 benefits_score	Numerical score of benefits package (1-10)	Float
 
-Salary Prediction Models
+Questions I managed to answer through Data Analysis
 
-Build ML models to predict AI job salaries
-Analyze factors affecting compensation
-Compare salaries across different locations
-Market Trend Analysis
-
-Track the evolution of AI job market
-Identify emerging job roles and skills
-Analyze remote work adoption patterns
-Career Planning
-
-Understand skill requirements for different positions
-Compare opportunities across countries
-Plan career progression paths
-Business Intelligence
-
-Company hiring patterns analysis
-Skills gap identification
-Market competition insights
-Geographic Studies
-
-Cost of living vs. salary analysis
-Regional market maturity assessment
-Immigration pattern correlations
-Data Collection Methodology
-
-Data was collected through ethical web scraping from major job platforms including:
-
-LinkedIn Jobs
-Indeed
-Glassdoor
-AngelList
-Stack Overflow Jobs
-Company career pages
+How much salary_usd by job_title?
+from each job_title what are the most education_required required?
+from each job_title what are the most experience_level required?
+what is the distribution of employment_type?
+Is there relation between employee_residence and company_location?
+Is there relation between remote_ratio and employee_residence with company_location?
